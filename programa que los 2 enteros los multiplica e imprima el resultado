@@ -1,0 +1,16 @@
+proceso definir_a
+	//programador: Samuel toro
+	//version: 1.0//
+	//AREA DEFINICION VARIABLES//
+	definir a,b,r Como entero;
+	//AREA DE DATOS//
+	Escribir"digite primer numero"
+	leer a;
+	Escribir"digite segundo numero"
+	leer b;
+	//AREA DE CALCULOS//
+	r = a * b;
+	//AREA DE SALIDA//
+	Escribir"la multiplicacion es : ",r;
+
+FinProceso
